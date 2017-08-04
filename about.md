@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+멋쟁이 사자처럼 4기<br>
+동국대 멋쟁이 사자처럼 운영진<br>
+START UP ***WHY*** 개발자
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+매일 매일 성장하기!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jongwonno@likelion.org](mailto:jongwonno@likelion.org)
