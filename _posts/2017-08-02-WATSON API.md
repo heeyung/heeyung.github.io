@@ -1,3 +1,8 @@
+---
+layout: post
+title: WATSON API
+---
+
 #  WATSON API
 
 ### 1.  IBM WATSON API란?
