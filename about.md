@@ -10,7 +10,7 @@ START UP ***WHY*** 개발자
 
 ### More Information
 
-매일 매일 성장하기!
+매일 매일 코오딩하기!
 
 ### Contact me
 
