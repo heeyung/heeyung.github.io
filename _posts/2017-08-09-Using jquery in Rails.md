@@ -28,7 +28,7 @@ tree .는 javascripts 폴더 안에 있는 내용들을 자동으로 불러오�
 
 일반적으로 /app/assets/javascripts 폴더 안에 jquery메소드들이 실행 되지 않는 경우를 발견했다.
 
-이거를 해결하는 방법은 http://yehudakatz.com/2007/01/31/using-jquery-in-rails-part-i/
+이거를 해결하는 방법은 [using-jquery-in-rails-part-i](http://yehudakatz.com/2007/01/31/using-jquery-in-rails-part-i/)
 
 여기서 찾았는데 가장 간단히
 
