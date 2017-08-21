@@ -22,5 +22,11 @@
 
    The **rails_env** is likely either **development** or **production**, while the others are values you either just created or found.
 
-   ​	
+2. rds
+
+   일단 [이거](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Ruby.rds.html) 보기
+
+   ​
+
+   ​
 
