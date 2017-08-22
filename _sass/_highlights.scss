@@ -13,7 +13,19 @@
 code {
   font-family:'Bitstream Vera Sans Mono','Courier', monospace;
 }
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:2px solid #ff0000;
+}
 
+th{
+    border:2px solid #000000;
+}
+
+td{
+    border:1px solid #000000;
+}
 .highlight .c { color: #586E75 } /* Comment */
 .highlight .err { color: #93A1A1 } /* Error */
 .highlight .g { color: #93A1A1 } /* Generic */
